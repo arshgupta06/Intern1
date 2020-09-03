@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 08 Aug 2020 19:14:13 at https://www.chiragsingla.co.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.chiragsingla.co.in/ -O1 "C:\My Web Sites\chirag" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:14:15	Warning: 	Found for https://www.chiragsingla.co.in/robots.txt
+19:14:15	Warning: 	File has moved from https://www.chiragsingla.co.in/robots.txt to https://www.chiragsingla.co.in
+19:14:48	Error: 	"Not Found" (404) at link https://revolution.themepunch.com/wp-content/uploads/2014/05/wave11.png (from https://www.chiragsingla.co.in/assets/css/revolution-slider.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 38 seconds : 113 links scanned, 111 files written (6360210 bytes overall) [6260654 bytes received at 164754 bytes/sec], 420568 bytes transferred using HTTP compression in 3 files, ratio 18%, 12.2 requests per connection
+(1 errors, 2 warnings, 0 messages)
