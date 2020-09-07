@@ -72,3 +72,14 @@
   font-size: 15px;
   color: #fff;
 }
+.services-block-two .inner-box .image-box {
+  border-radius: 30% 70% 70% 30% / 30% 30% 70% 70% ;
+
+  background: #2f3542;
+}
+.services-block-two .inner-box .image-box img {
+  border-radius: 30% 70% 70% 30% / 30% 30% 70% 70% ;
+}
+.services-block-two .inner-box .image-box .overlay-box{
+  border-radius: 30% 70% 70% 30% / 30% 30% 70% 70% ;
+}
