@@ -82,4 +82,8 @@
 }
 .services-block-two .inner-box .image-box .overlay-box{
   border-radius: 30% 70% 70% 30% / 30% 30% 70% 70% ;
+  background-color: rgba(51, 51, 51, 0.8);
+}
+.info-section .info-box .info-column .info-detail .text{
+  font-size: 1em;
 }
